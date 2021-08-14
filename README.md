@@ -2,7 +2,7 @@
 
 ![logo](frozen.gif)
 
-This notebook includes reinforcement learning algorithms and a greedy function.
+This notebook includes reinforcement learning algorithms and a epsilon-greedy function.
 
 # Frozen Lake
 
@@ -23,4 +23,6 @@ Frozen Lake GitHub repo : https://github.com/openai/gym/blob/master/gym/envs/toy
 
 -   **İrem Akyol**  - [iremakyol](https://github.com/lastirembender)    
     
-    
+## References   
+
+- [reinforcement course](https://simoninithomas.github.io/deep-rl-course/#)
