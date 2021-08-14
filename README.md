@@ -1,6 +1,26 @@
-# FrozenLake-v0
+# Frozen Lake Notebook
 
-Frozen Lake OpenAI Gym tarafından yapılmış, bir Reinforcement Learning metodu olan Q-Learning kullanımına müsait bir oyun alanıdır.
+![logo](frozen.gif)
 
-Frozen Lake websitesi: https://gym.openai.com/envs/FrozenLake-v0/
-Frozen Lake GitHub repositorysi : https://github.com/openai/gym/blob/master/gym/envs/toy_text/frozen_lake.py
+This notebook includes reinforcement learning algorithms and a greedy function.
+
+# Frozen Lake
+
+Frozen Lake is a playground built by OpenAI Gym, available for use in Q-Learning, a Reinforcement Learning method.
+
+Frozen Lake website: https://gym.openai.com/envs/FrozenLake-v0/
+
+Frozen Lake GitHub repo : https://github.com/openai/gym/blob/master/gym/envs/toy_text/frozen_lake.py
+
+## Libraries Used
+
+    gym
+    numpy
+    random
+    time
+    
+## Author
+
+-   **İrem Akyol**  - [iremakyol](https://github.com/lastirembender)    
+    
+    
